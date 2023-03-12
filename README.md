@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Shaun and welcome to my little corner of cyberspace. Here you can find out a little about me as an engineer and developer, and check out a selection of projects that I am most proud of.   
+I'm Shaun and welcome to my little corner of cyberspace. Here you can find out a little about me as an engineer and developer, and check out a selection of projects that I am most proud of. I began programming in high school but only later really got into it when I began to explore software development out of my own curiosity. I hold a bachelor's degree in Electronic Engineering. I worked briefly as a junior software dev for 6 months before getting the opportunity to come to the Netherlands. I'm currently working as a System Performance Engineer at ASML in the Netherlands. In my spare time I continue to code and increase my knowledge.      
 
 ## Featured Projects by technology 
 
