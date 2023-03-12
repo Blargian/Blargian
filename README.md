@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**Blargian/Blargian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shaun and welcome to my little corner of cyberspace. Here you can find out a little about me as an engineer and developer, and check out a selection of projects that I am most proud of.   
 
-Here are some ideas to get you started:
+# Featured Projects by technology 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## C++
+[<img align="left" style="margin-right:10px" target="_blank" alt="C plus plus" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png "C++")
+<br>
+
+[Minimum span tree visualizer](https://github.com/Blargian/min_span_tree_visualizer)
+
+## Python
+[<img align="left" style="margin-right:10px" target="_blank" alt="Python" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png "Python")
+<br>
+
+[Automating Language Learning](https://github.com/Blargian/AnkiAdder)
+
+ ## Javascript / React / NodesJS 
+ [<img align="left" style="margin-right:1px" target="_blank" alt="JavaScript" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png "Javascript")[<img align="left" style="margin-right:1px" target="_blank" alt="React" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png?raw=true"/>](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png "React")[<img align="left" style="margin-right:10px" target="_blank" alt="NodeJS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/nodejs.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/nodejs.png "node.js")
+<br>
+
+[Knights vs Spies online game](https://github.com/Blargian/spyspy)
+
+
+
+
