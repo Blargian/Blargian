@@ -8,7 +8,7 @@ I'm Shaun and welcome to my little corner of cyberspace. Here you can find out a
 [<img align="left" style="margin-right:10px" target="_blank" alt="C plus plus" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png "C++")
 <br>
 
-[Minimum span tree visualizer](https://github.com/Blargian/min_span_tree_visualizer)
+[Minimum span tree visualizer](https://github.com/Blargian/min_span_tree_visualizer) (current project)
 
 ### Python
 [<img align="left" style="margin-right:10px" target="_blank" alt="Python" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png "Python")
