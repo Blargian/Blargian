@@ -16,7 +16,7 @@ I'm Shaun and welcome to my little corner of cyberspace. Here you can find out a
 
 [Automating Language Learning](https://github.com/Blargian/AnkiAdder)
 
- ### Javascript / React / NodesJS 
+ ### Javascript / React / NodeJS 
  [<img align="left" style="margin-right:1px" target="_blank" alt="JavaScript" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png "Javascript")[<img align="left" style="margin-right:1px" target="_blank" alt="React" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png?raw=true"/>](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png "React")[<img align="left" style="margin-right:10px" target="_blank" alt="NodeJS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/nodejs.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/nodejs.png "node.js")
 <br>
 
