@@ -4,11 +4,13 @@ I'm Shaun and welcome to my little corner of cyberspace. Here you can find out a
 
 ## Featured Projects by language 
 
-### C++
+### C/C++
 [<img align="left" style="margin-right:10px" target="_blank" alt="C plus plus" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png "C++")
 <br>
 
 [Minimum Spanning Tree Algorithm Visualizer](https://github.com/Blargian/min_span_tree_visualizer) (current project)
+
+[Wax Printer System](https://github.com/Blargian/EPR400/) (Undergraduate thesis project)
 
 ### Python
 [<img align="left" style="margin-right:10px" target="_blank" alt="Python" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png "Python")
