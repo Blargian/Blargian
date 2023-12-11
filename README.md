@@ -10,6 +10,8 @@
 
 [Wax Printer System](https://github.com/Blargian/EPR400/) (Undergraduate thesis project)
 
+[Learning Boost Graph Library](https://github.com/Blargian/BGL/)
+
 ### Python
 [<img align="left" style="margin-right:10px" target="_blank" alt="Python" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png "Python")
 <br>
