@@ -1,16 +1,20 @@
 ## Featured Projects by language 
 
-### C/C++
+### C++
 [<img align="left" style="margin-right:10px" target="_blank" alt="C plus plus" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png "C++")
 <br>
 
 [Minimum Spanning Tree Algorithm Visualizer](https://github.com/Blargian/min_span_tree_visualizer)
 
-[Wax Printer System](https://github.com/Blargian/EPR400/) (Undergraduate thesis project)
-
 [Learning Boost Graph Library](https://github.com/Blargian/BGL/)
 
-[STM32 Sorting Algorithm Visualizer](https://github.com/Blargian/embedded_sorting_algorithms) (in progress)
+### C/C++ Embedded
+
+[Wax Printer System (undergrad thesis)](https://github.com/Blargian/EPR400/) 
+
+[STM32 Sorting Algorithm Visualizer](https://github.com/Blargian/embedded_sorting_algorithms)
+
+[Santa's Jukebox Christmas Card](https://github.com/Blargian/singing-card)
 
 ### Python
 [<img align="left" style="margin-right:10px" target="_blank" alt="Python" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png "Python")
